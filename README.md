@@ -1,3 +1,7 @@
+Purpose of this project: 
+This project was a work-in-progress website created by teamtreehouse for writing unit tests with jUnit.
+I wrote the unit tests at src/test/java/com/teamtreehouse/techdegree/overboard/model/UserTest.java
+
 ## Welcome to Stack Overboard
 
 This is a WIP (Work In Progress) but the basic idea is this:
@@ -34,7 +38,4 @@ System.out.println("Bob: " + bob.getReputation()); // Bob's answer got upvoted (
                                                    // so this prints Bob: 25
 ```
 
-## TODO
-[ ] TESTS!
-[ ] Use a data store!
-[ ] Build the website surrounding this awesome model
+
